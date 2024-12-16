@@ -4,7 +4,12 @@
 ## Features 
 
 - It can show all entered satellites orbits prediction in matplotlib way 
-- It can use filter to show only (lowest) satellites' points, i.e with 90* elevation. The best photo quality / signal strength. 
+- It can use filter to show only (lowest) satellites' points, i.e with 90* elevation. The best photo quality / signal strength.
+
+## You can 
+
+- Spy on any satellites, i.e scheduling when legion satellites are going to create picture (in the area with the lowest altitude)
+ 
 
 ![300](https://github.com/caerry/satellite-spying/blob/main/satellite_orbits_filtered.png?raw=true)
 
